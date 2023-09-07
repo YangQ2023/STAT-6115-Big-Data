@@ -49,6 +49,9 @@ boxplot(Wage$wage ~ Wage$education , col=myColors, ylab="Wage" ,
   xlab="Education Level",names=label)
 
 
+"test test "
+
+
 
 
 
